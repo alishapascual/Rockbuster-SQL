@@ -7,4 +7,4 @@ You’ve been hired as a data analyst by Rockbuster Stealth’s business intelli
 
 Before you can begin your analysis and answer more complex business questions, you’ll need to acquire a good understanding of the various data points. You’ll eventually compile the results of your analysis into an easily digestible format, which will be presented to the Rockbuster Stealth Management Board.
 
-[Achievement 3 Visuals] (https://public.tableau.com/app/profile/alisha.pascual/viz/3_10PresentationVisuals/Sheet2)
+[Achievement 3 Visuals](https://public.tableau.com/app/profile/alisha.pascual/viz/3_10PresentationVisuals/Sheet2)
